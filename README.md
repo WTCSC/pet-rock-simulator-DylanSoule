@@ -7,6 +7,7 @@ These decisions will affect key stats and ultimately lead to endings that will c
 
 ## Requirements
 * Python 3
+* Does not require any external libraries however the built in time library is used
 
 ## Installation
 * Download the [pet_rock.py](./pet_rock.py) file  
