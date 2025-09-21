@@ -1,6 +1,4 @@
-<p style="text-align:center;font-size:30px;">Dylan Soule's Pet Rock Simulator</p>
-
-----------------------
+# Dylan Soule's Pet Rock Simulator
 
 This Pet Rock Simulation brings you on an epic journey through pure human experiences and a story one will never forget
 
