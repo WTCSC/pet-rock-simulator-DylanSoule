@@ -34,6 +34,23 @@ After playing enough you will reach 1 of 5 ending, but you'll have to play the g
 
 Additionally you can end the game at the end of each day cycle if you wish to however this will not give one of the endings
 
+### Possible Actions
+* Feed Your Pet Rock
+* Put Makeup Onto Your Pet Rock
+* Lick Your Pet Rock
+* Kick Your Pet Rock
+* Do Nothing
+
+### End Conditions
+The game will end and an ending message will play if any of the following conditions are met
+* Hunger Reaches 10
+* Age Reaches 100
+* Sphericalness Reaches 10
+* Size Reaches 0
+* Size Reaches 10
+
+If hunger reaches 0 a message will also play at the beginning of the next day, however, the game will not end
+
 ## Program Flow
 * The Program Runs based on specific outcomes defined in the flow chart [here](https://lucid.app/lucidchart/8943c60f-2936-4edf-9340-a66bb51323b8/edit?viewport_loc=446%2C-657%2C5216%2C2629%2C0_0&invitationId=inv_22faf6c7-6790-400d-b459-823c11742c94), or shown below:
 
