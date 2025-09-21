@@ -16,7 +16,7 @@ These decisions will affect key stats and ultimately lead to endings that will c
 
 ## How to Play
 Begin by running the file, run the command below in your terminal if you are doing it there
-```sql
+```bash
 cd [file path to decision_tree.py] | python3 decision_tree.py
 ```
 After running the file you will begin by naming your rock, name it whatever you would like and then press enter
